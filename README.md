@@ -2,8 +2,8 @@
 
 
 You are given 2 mat files to be loaded by your MATLAB script:
-    o When loading the files, you should see 2 vectors (S1, S2) in your workspace.
-    o Another option is to use the MATLAB whos command to see the workspace
+    - When loading the files, you should see 2 vectors (S1, S2) in your workspace.
+    - Another option is to use the MATLAB whos command to see the workspace
       variables and their dimensions.
  The given vectors are a product of intra cellular recordings performed in vitro:
     o The stimulus protocol in the experiment was a sequence of current steps (“0→dc
